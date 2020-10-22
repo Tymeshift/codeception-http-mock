@@ -26,7 +26,7 @@
 	"license" : "GPL-3.0+",
 	"require" : {
 		"php" : ">=5.4",
-		"codeception/codeception" : "^2.4",
+		"codeception/codeception" : "^2.5",
 		"internations/http-mock" : "^0.8",
 		"mcustiel/php-simple-di" : ">=1.2.0"
 	},
